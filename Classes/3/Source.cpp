@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-	setlocale(0, "");
+	system("chcp 1251");
+	system("cls");
 	Time a;
 	Time b;
 	Time sum;
